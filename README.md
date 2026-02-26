@@ -3,7 +3,7 @@
 <!--
 **jonegoundar/jonegoundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 
 Hello! I saw your profile and would like to discuss a potential collaboration. you don't need IT tech
 My name is Jerry James, and I’m based in Malaysia. It’s great to meet someone with a passion. I have over five years of experience in the IT industry, and during this time I’ve noticed a significant difference in wages between Malaysia and your country. I’ve observed that professionals in similar roles in your country often earn considerably more.
@@ -16,3 +16,4 @@ If you are interested, contact here. I don’t often visit this platform.
 
 Telegram: @Techtop000  
 Discord: oo_o0o_oo
+##
