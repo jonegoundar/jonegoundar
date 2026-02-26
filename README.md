@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-##Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 Hello! I saw your profile and would like to discuss a potential collaboration. you don't need IT tech
 My name is Jerry James, and I’m based in Malaysia. It’s great to meet someone with a passion. I have over five years of experience in the IT industry, and during this time I’ve noticed a significant difference in wages between Malaysia and your country. I’ve observed that professionals in similar roles in your country often earn considerably more.
